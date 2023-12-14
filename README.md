@@ -19,7 +19,7 @@
 ### 1.6 Evaluation
 #### 1.6.1 Suitable Metrics
 #### 1.6.2-1.6.5 LSTM model Evaluation
-
+---
 ## Project3  Price Prediction Signal
 ### 2.1 Project Instructions
 ### 2.2 Project Methodology
