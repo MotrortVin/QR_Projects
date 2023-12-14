@@ -1,0 +1,13 @@
+start_date = '2015-01-01'
+end_date = '2023-12-12'
+if_max = False
+actions = True
+stock_list = ['GOOG', 'AMZN', 'JPM', 'GME', 'XOM', 'SPY']
+feature_list = ['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'Return']
+period = 40
+train_rate = 0.8
+look_back = 40
+hidden_layer_size = 32
+output_size = 1
+learning_rate = 0.001
+epochs = 100
